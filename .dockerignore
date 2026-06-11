@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+.git
+.specify
+.claude
+specs
+.env
+.env.local
+*.log
